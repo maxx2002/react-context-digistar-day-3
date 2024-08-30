@@ -26,7 +26,7 @@ const ProjectDetail: React.FC = () => {
   }
 
   return (
-    <div className="px-16 py-8 text-gray-900 bg-gray-200 min-h-screen">
+    <div className="px-16 py-8 min-h-screen">
       <h1 className="text-4xl font-bold mb-8">{project.name}</h1>
       <div className="flex items-center gap-x-12">
         <img
