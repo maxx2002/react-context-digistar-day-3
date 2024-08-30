@@ -14,7 +14,7 @@ const ThemeSwitch: React.FC = () => {
   return (
     <button
       onClick={toggleTheme}
-      className="flex items-center justify-center w-16 h-9 bg-gray-600 rounded-full p-1 focus:outline-none"
+      className="flex items-center justify-center w-16 h-9 bg-gray-600 rounded-full p-1"
     >
       <div
         className={`flex items-center justify-center w-6 h-6 bg-gray-200 dark:bg-gray-800 rounded-full shadow-md transform transition-transform ${
