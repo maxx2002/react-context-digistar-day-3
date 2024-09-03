@@ -1,3 +1,10 @@
+# Dark mode settings using React Context and Provider
+
+<img width="1440" alt="Screenshot 2024-09-03 at 13 28 51" src="https://github.com/user-attachments/assets/ac800fe8-db7d-44b9-88aa-2efa5c7ff174">
+
+<img width="1440" alt="Screenshot 2024-09-03 at 13 28 45" src="https://github.com/user-attachments/assets/8fbb816f-8e3a-4f69-aae7-bf7110c30d65">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
